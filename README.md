@@ -1,2 +1,3 @@
-# Ravenous
-A React Js app on foods
+## ravenous
+
+A client-side React application, utilizing the Yelp API to search for local businesses.
